@@ -1,5 +1,6 @@
+[Adblock Plus 2.0]
 ! Title: tn4417 - NTN Blogger AdsBlock
-
+! ========================== General Element Hiding ===========================
 
 ||i2.vlstorage.com^
 @@||play.stream4.me/embed/$subdocument
