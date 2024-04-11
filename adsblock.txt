@@ -2,3 +2,4 @@
 
 ||i2.vlstorage.com^
 @@||play.stream4.me/embed/$subdocument
+@@||facebook.com/messages/$subdocument
