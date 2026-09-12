@@ -3,9 +3,8 @@
 ||i2.vlstorage.com^
 @@||play.stream4.me/embed/$subdocument
 
-honghot.vn###okpDeviceAffiliateDesktopEmuPopup
-honghot.vn###okpDeviceAffiliateHost
-honghot.vn##html, body:style(overflow: auto !important; position: static !important; height: auto !important;)
+##[id^="okpDeviceAffiliate"]
+honghot.vn, trang-khac.com##html, body:style(overflow: auto !important; position: static !important; height: auto !important;)
 ! 17:37:19 23/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
 ||qccoccocmedia.vn/comedia/ntrb?id=12283261&uid=LTV8WJnxPSJhtuDdik2vXaBtJmRk3kAC8CtryBM7zlrM&md=eyJidCI6NSwiaW1wcmVzc2lvbnMiOjAsInAiOiJ1c2VyX2dwcz0xMC43NDY5MDMsMTA2LjY3NjI5MiZwcm94aW1pdHk9MjkuODUzIiwicHJpY2UiOjI5NDAuNzIyNzg1MzY4MDAzLCJyZXFpZCI6IjBWWUI5RVp1Iiwic2lnbmF0dXJlIjoiMmE0NGQ4NTMxMTA2MWFlYTM0OTFiNTgyZWU3ZTgxZTAiLCJ0aXRsZV90YXJnZXRlZCI6ZmFsc2V9&qv_age=0$subdocument
 
