@@ -5,3 +5,468 @@
 
 honghot.vn###okpDeviceAffiliateDesktopEmuPopup
 honghot.vn##html, body:style(overflow: auto !important; position: static !important; height: auto !important;)
+! 17:37:19 23/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+||qccoccocmedia.vn/comedia/ntrb?id=12283261&uid=LTV8WJnxPSJhtuDdik2vXaBtJmRk3kAC8CtryBM7zlrM&md=eyJidCI6NSwiaW1wcmVzc2lvbnMiOjAsInAiOiJ1c2VyX2dwcz0xMC43NDY5MDMsMTA2LjY3NjI5MiZwcm94aW1pdHk9MjkuODUzIiwicHJpY2UiOjI5NDAuNzIyNzg1MzY4MDAzLCJyZXFpZCI6IjBWWUI5RVp1Iiwic2lnbmF0dXJlIjoiMmE0NGQ4NTMxMTA2MWFlYTM0OTFiNTgyZWU3ZTgxZTAiLCJ0aXRsZV90YXJnZXRlZCI6ZmFsc2V9&qv_age=0$subdocument
+
+! 17:39:58 23/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+||qccoccocmedia.vn/comedia/ntrb?id=12283261&uid=*$subdocument
+
+! 17:40:20 23/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+||qccoccocmedia.vn/comedia/ntrb?id=*$subdocument
+
+! 17:40:48 23/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+coccoc.com###place640x360
+
+! 23:46:18 23/5/2016 http://sbdotcom2016.blogspot.com/
+||sieubua.com/banner/cacuoc/balloon.gif$image
+
+! 23:46:23 23/5/2016 http://sbdotcom2016.blogspot.com/
+||aff.opus-static.com/m88/600x120_VN.gif$image
+
+! 23:48:54 23/5/2016 http://sbdotcom2016.blogspot.com/2016/05/clip-gai-dam-mua-lua-bi-phe-vl-y.html
+sbdotcom2016.blogspot.com###bar_top > a[href="javascript:;"] > span
+
+! 23:49:09 23/5/2016 http://sbdotcom2016.blogspot.com/2016/05/clip-gai-dam-mua-lua-bi-phe-vl-y.html
+sbdotcom2016.blogspot.com###bar_top_r > a[href="javascript:;"] > span
+
+! 10:13:20 26/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+coccoc.com###place640x360
+
+! 22:20:10 26/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+data:image/png;base64,*$domain=coccoc.com,image
+
+! 22:20:14 26/5/2016 http://coccoc.com/webhp?espv=2&ie=UTF-8&l=vi
+coccoc.com###place640x360
+
+! 16:32:33 21/6/2016 http://toilait.forumvi.com/t4051-topic#24286
+||i84.servimg.com/u/f84/18/45/07/75/120x6010.png$image
+
+! 22:48:51 31/7/2016 http://www.drivercabinet.com/driver/etc2_1.html?o=5132&l=1066
+||cdn.castplatform.com/images/4f6b72b1-5c02-44bd-a730-7e3a3bb81160.gif$image
+
+! 22:49:05 31/7/2016 http://www.drivercabinet.com/driver/etc2_1.html?o=5132&l=1066
+www.drivercabinet.com##body > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(3)
+
+! 2:22:27 17/9/2016 http://www.tienganh.com.vn/showthread.php?37307-Task3-Speaking(-ai-gi%C3%BAp-m%C3%ACnh-v%E1%BB%9Bi)
+||www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FY%25C3%25AAu-Ti%25E1%25BA%25BFng-Anh%2F146755475356185&width=640&height=258&colorscheme=light&show_faces=true&border_color&stream=false&header=false$subdocument
+
+! 2:22:35 17/9/2016 http://www.tienganh.com.vn/showthread.php?37307-Task3-Speaking(-ai-gi%C3%BAp-m%C3%ACnh-v%E1%BB%9Bi)
+||www.facebook.com/plugins/like.php?href=http://www.TiengAnh.com.vn/showthread.php?37307-Task3-Speaking%28-ai-gi%C3%BAp-m%C3%ACnh-v%E1%BB%9Bi%29&p=364490$subdocument
+
+! 2:22:40 17/9/2016 http://www.tienganh.com.vn/showthread.php?37307-Task3-Speaking(-ai-gi%C3%BAp-m%C3%ACnh-v%E1%BB%9Bi)
+www.tienganh.com.vn###post_364490 > .postbody > .postrow > p > .adsbygoogle
+
+! 2:22:45 17/9/2016 http://www.tienganh.com.vn/showthread.php?37307-Task3-Speaking(-ai-gi%C3%BAp-m%C3%ACnh-v%E1%BB%9Bi)
+www.tienganh.com.vn###posts > .firstpost_advert_container > .firstpost_advert
+
+[Adblock Plus 2.0]
+! Title: HtloveList
+! Last modified: 29 Aug 2016 08:20 UTC
+! Expires: 1 days (update frequency)
+! Homepage: http://htlove.org/chan-quang-cao-cho-trinh-duyet/
+! Licence: http://htlove.org
+! Please report any unblocked adverts or problems
+! in the blogs (http://htlove.org/chan-quang-cao-cho-trinh-duyet/)
+! or via e-mail (phantam.ttth@gmail.com).
+!
+! --Generic Blocking Rules --
+||polyad.net^
+||googlesyndication.com^
+||ads.sinhvienit.net^
+||st.123c.vn^
+||widget.zini.vn^
+||svit.vn^
+||unigame.vn^
+||click.uniad.vn^
+||uniad.vn^
+||meta.vn^
+||rada.vn^
+||sosmart.vn^
+||widgets.amung.us^
+||adflex.vn^
+||4dsply.com^
+||doubleclick.net^
+||quantserve.com^
+||googleadservices.com^
+||purgrobi.com^
+||innity.net^$third-party
+||senpay.vn^
+||cxense.com^
+||adi.vcmedia.vn^
+||admicro1.vcmedia.vn^
+||adv.vcmedia.vn^
+||imasdk.googleapis.com^
+||cdn.userreport.com^
+||deca.vn^
+||bs.serving-sys.com^
+||propellerads.com^
+www.vn-zoom.com##.z2-zads-zone
+||analytics.bkav.com^
+||static.dowload.vn/data/File/META.vn/*
+||api.nas.nct.vn/v2/*
+||stc.nas.nixcdn.com/upload/*
+||axem.vn/adsnct
+||24hstatic.com*/upload/*.swf
+||24hstatic.com*/upload/*.gif
+||24h-ad.24hstatic.com*/upload/*.jpg
+||24hstatic.com*/imageupload/*.swf
+||nv-ad.24hstatic.com*/imageupload/*/qcao/*
+yan.vn###_yan_adv_136
+||static.dowload.vn*/data/*.html
+||24h.com.vn/ajax/box_quang_cao_deca/*
+||diemthi.24h.com.vn/upload/banner/
+||quangcao.24h.com.vn^
+||anh.24h.com.vn*/*.swf
+24h.com.vn##.fixed-top
+24h.com.vn##.fixed-top2
+download.com.vn##.adbox
+www.facebook.com##.coverBorder
+##.banner-TT
+##ul[class="rBox-game-list"]
+||lt-wpa.zaloapp.com^
+||adbroker.zing.vn^
+||ad.zing.vn^
+||ads.anhtrang.vn^
+||sezmicorp.com^
+||mobay.vn^
+||popads.net^
+||line2day.vn^
+||adsquangcao.com^
+||adlite.net^
+||adbrand.net^
+||movie.vkool.net/js/nhonho.js
+||movie.vkool.net/js/vkool_pop.js
+vkool.net###boxes
+phim3s.net##.bpadding
+||phim3s.net/ad/
+||m-viet.com/ad/banner/*
+||hihe.vn/?*$popup
+||m-viet.com^$popup
+||cafecuoi.net^$popup
+||phienbanmoi.com/popup1.js
+||data.hdonline.vn/banner/*
+||phim.let.vn/themes/frontend/letphim/ads/*
+||clipvip.tv^
+||clipnong.vn^
+||bongdatructuyen.vn/uploads/banners/*
+||sbbanner.com^
+bongdatructuyen.vn###banner_FloatLeft
+bongdatructuyen.vn###banner_FloatRight
+bongdatructuyen.vn###popup_preloadbanner
+||i.imgur.com/fhntW.gif
+||ad1688.net^
+###HTML22
+||blogtruyen.com/file/*
+||luyengame.com/js/random.js
+||luyengame.com/js/showgame.js
+www.xemtivi.net##div[style="background:#000000; width:990px; color:#FFFFFF; padding-top:10px; height:120px"]
+www.vn-zoom.com##td[width="300"][valign="top"]
+###quangcao
+xemphimso.com##.xps_ads
+tinhte.vn###GritterContainer
+###fl123
+##.topadv
+||thuthuat-vnzet.com/uploads/950x90_thuthuatvnzet.gif
+||thuthuat-vnzet.com/uploads/620x80_thuthuat-vnzet.com_1.gif
+||thuthuat-vnzet.com/uploads/ssd-virtual-servers.jpg
+||ad.neim.com.vn^
+||adrealclick.com^
+||api.viglink.com^
+||cdn.viglink.com^
+||b.scorecardresearch.com/beacon.js
+||vietnamnetad.vn^
+||moffsets.com^
+||taiiwin.net^
+||ad.vn88.com^
+||dj.so1vn.vn/detect.js
+||m.dj.so1vn.vn/scrip/so1vn.js
+||tvtructuyen.net/reklamy*
+||tvtructuyen.net/test*
+||tvtructuyen.net/qc*
+||tvtructuyen.net/server-qc.html
+||tvtructuyen.net/banner.html
+||tivionline.vn/hinh/qcpopup.js
+||*.bp.blogspot.com^$domain=tivionline.vn
+||smail188.com^
+||sbbanner.com^
+||images.vnmedia.vn/images_upload/2013/Ads*
+||ssphim.com/banner/*
+||sstruyen.com/Banner/*
+||ssgroup.vn^
+||vietgiaitri.com/wp-temp/themecache/show_news_vgt.js
+thanhnien.com.vn##.qc-data
+thanhnien.com.vn##.ccd-div
+||api.hostip.info^
+||*.bp.blogspot.com^$domain=dj.very.vn
+||*.bp.blogspot.com^$domain=bongda60.com
+||*.bp.blogspot.com^$domain=keonhacai.com
+||*.bp.blogspot.com^$domain=bongdatructuyen.vn
+||postimg.org^$domain=tructiepbongda.com
+||postimg.org^$domain=keonhacai.com
+||postimg.org^$domain=www.kenh1.info
+||postimg.org^$domain=www.tivi4k.net
+||postimg.org^$domain=www.xemtiviso.com
+||i.imgur.com^$domain=bongdatructuyen.com
+||i.imgur.com^$domain=www.kenh1.info
+||i.imgur.com^$domain=www.tivi4k.net
+||i.imgur.com^$domain=mangak.net
+||i.imgur.com^$domain=www.tivi24h.com
+||i.imgur.com^$domain=www.xemtiviso.com
+||imgur.com^$domain=tvtructuyen.net
+||m88sut.com^
+||apicpi.com^
+||refinancing24h.net^
+||livingroom24h.com^
+||safe138.info^
+||income88.com^
+||affiliate.m88vina.com^
+||dongcam.vn/widget/*
+###popup_message
+dj.so1vn.vn###fl813691
+###co453569
+###widget-10
+###stickynote1
+||hot.nava.vn^
+||ad.thaisonmedia.com/
+||banner.vietad.vn/
+||ad.vatgia.com/static/
+||click.xdeal.vn^
+||m.clix.vn/
+||*.ad123.vn/
+||*.eclick.vn/
+||songbai.us^
+||histats.com^
+||hit.123c.vn^
+||hihe.vn/module/widget3s
+||adnetwork.5imedia.vn/
+||ad.vatgia.com/
+||admicro1.vcmedia.vn/cpc/
+||adnetwork.vn
+||ads.hosting.vcmedia.vn^
+||api.popnet.vn/
+||mcad.mobay.vn/data/creative/
+||tvc.vcmedia.vn/adt/
+||static.novanet.vn/
+||b.123c.vn/
+||widget.zini.vn^
+||cpd.vietad.vn/
+/www/delivery/*
+||adnetwork.vn^
+||cdn01.rada.vn/data/File/
+||provider.ad360.vn^
+||i.mmcdn.cn/simba/img/*
+||*.adfox.vn/
+||d1.violet.vn/ads/
+||congan.com.vn/*/Quang-Cao/*
+||kst.vn/community/data/attachment/common/cf
+||clip.vn^$popup
+||s.tuoitre.vn/
+||www.5giay.vn/igo/trangchu/
+||www.5giay.vn/igo/kmv/
+||admicro1.vcmedia.vn/core/admicro_core.js
+||blueserving.com^
+||chophanthiet.us/diendan/vtlai_js/vtlai_preload_popup.js
+||chophanthiet.com.vn/images/*
+||googledrive.com^$domain=chophanthiet.us
+||chophanthiet.us/images/*
+||bannersnack.net^
+||bongdaso.com/adv/*
+||4win1.com^
+/ads/*
+/adscript/*
+/popup.js
+||i.imgur.com^$domain=nhacdj.vn
+||i.imgur.com^$domain=bongdatv.net
+||bntags.com^
+||api.adtimaserver.vn/*
+||*.keeng.vn/medias/ads_image/*
+||4share.vn/adsimg/*
+||anthill.vn^
+||igo.5giay.vn^
+||chanlong.info^$popup
+||media.xemnghe.com/adv/*
+||lavanetwork.net^
+||vclick.vn^
+||ads.yahoo.com^
+||adf.ly/show.php?*
+||skylink.vn^
+||padstm.com^
+||teads.tv^
+||ismcorp.vn^
+||criteo.com^
+||serving.ad.org.vn^
+||revsci.net^
+||sgleague.com^
+||adnet.vn^
+||gammaplatform.com^
+||vnreview.vn/play-clip/video/flvPlayer.swf?*
+||bestfitnesscbproducts.com^
+||adtech.de^$popup
+||onclickads.net^$popup
+||anime47.com/js/pop1.js
+||dj.net.vn/47/*
+||dj-123.info/47/*
+||hotso1.com/47/*
+||vozforums.com/specials/*
+||adtop.com.vn^
+||adtop.vn^
+||adnxs.com^
+||adcash.com^
+||connextra.com^
+||baoduatinvn.info^$domain=ketqua.net
+||i.imgur.com^$domain=ketqua.net
+||uploadimgfast.com^$domain=ketqua.net
+ketqua.net##.float-qc-left
+ketqua.net##.float-qc-right
+deviantart.com##.partial-ad
+||ketquaxoso.24h.com.vn/images/quangcao/*
+||da-ads.com^
+||diendanlequydon.com/banner/*
+||yllix.com^
+nhaccuatui.com##.nqc-zone
+nhaccuatui.com###popupBeedoctor
+hdonline.vn##.noel_event_alert
+||realclick.vn^
+||blueseed.tv^
+||rtbpop.com^
+||short-story24.info^
+||phimvang.com/uploads/field/image/*
+||t.hdviet.com/v2/js/hdv.v2.event.min.js?*
+||t.hdviet.com/v2/css/event_samsung/popup_event.min.css?*
+||t.hdviet.com/topads/origins/*
+||baobongda.net/files/*
+||tapchisao.vn^
+||data.chiasenhac.com/banner/*
+||webdien.com/d/ad/*
+||hdonline.vn/template/frontend/adsfloat/*
+||yomedia.vn^
+||turn.com^
+||pubmatic.com^
+||asto-exo.com^
+||brands.aliexpress.com^
+||microadinc.com^
+||mgid.com^
+||tidaltv.com^
+||ad360.vn^
+||qc.mibet.com^
+||accesstrade.vn^
+||ketqua.net/cdn-cgi/nexp/dok3v=1613a3a185/cloudflare/rocket.js
+||admicro.vn^
+||exoclick.com^
+||pos.baidu.com^
+||adk2x.com^
+||ato.mx^
+||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/*
+||sotaycuame.com^
+||socute.vn^
+||adtech.de^
+||bit.ly/1xnGVKV
+||24h-img.24hstatic.com/upload/*/images/*/html5_banner*
+||rankinsroses.com^
+||ketnoia2.info^
+||ghepanhonline.com^
+||d5coalition.com^
+||360game.vn^
+||microad.net^
+||adtimaserver.vn^
+||mookie1.com^
+||qc.coccoc.com^
+||tenlua.vn/advertise.php?*
+||adsplay.net^
+www.truyensubviet.com##.modal-backdrop
+||ad.doubleclick.net^$popup
+||qc.mibet.com^$popup
+||connextra.com^$popup
+||adk2.com^
+||adsrvmedia.net^
+||admtpmp123.com^
+||yx-ads6.com^
+phim7.com###bn_bottom_fixed_right
+phim7.com###floatright
+||wwwpromoter.com^
+||besttoysfortoddlers.info^
+||adsys.biz^
+||biphim.com/ad^
+||tracking.123chien.com^
+||uniad.phimmoi.net^
+||ads.polmontventures.com^
+||qc.tclup.com^
+||fastclick.net^
+||ad.zone.vn^
+||xemtvhd.com/logo/*.php
+||tamanae.com^
+||paragonads.vn^
+||clickterra.net^
+vivo.vn###floating_banner_right
+vivo.vn###floating_banner_left
+www.fshare.vn###video-google
+||storage.fshare.vn/images/*
+||nghenhacvang.net/images/a/*
+||giaca24.vn/appbox/
+||xenforo.idichvuseo.com/images/*
+!--Whitelists--!
+@@/crossdomain.$domain=hdviet.com
+@@/crossdomain.$domain=hdonline.vn
+@@/crossdomain.$domain=nhaccuatui.com
+@@||delivery.adnetwork.vn/crossdomain.xml
+@@||api.adtimaserver.vn/crossdomain.xml
+@@||bs.serving-sys.com/crossdomain.xml
+@@||htlove.org^$document
+@@||nhacvang.xavang.com^$document
+@@||nhacvnn.net^$document
+@@||ads.nhaccuatui.com/
+@@||ads.hosting.vcmedia.vn^
+@@||admicro2.vcmedia.vn/adt/cpc/tvcads/js/jsporn.js
+@@||pq-direct.revsci.net^$domain=vivo.vn
+@@||ad.skylink.vn/tracking/*^$domain=hdonline.vn
+@@||blueserving.com/js/*^$domain=hdonline.vn
+@@||123.30.134.91:8080/*
+@@||s1.yimg.com/zz/*
+@@||hdonline.vn/frontend/*$domain=hdonline.vn
+@@||hdonline.vn/ads/*$domain=hdonline.vn
+@@||api.adtimaserver.vn/zad/videoad?*$domain=talktv.vn
+@@||igo.5giay.vn/images/*
+@@||imasdk.googleapis.com^
+@@||adserver.adtech.de/crossdomain.xml
+@@||adsplay.net/js/adsplay.js?*
+@@||api.adtimaserver.vn^$domain=tv.zing.vn
+
+! 7/8/2020 https://thiepmung.com
+thiepmung.com##.dark.i-said-no-thing-can-stop-me-warning
+
+! Removes video suggestions on video pages
+youtube.com##.watch-sidebar-body > #watch-related > .related-list-item > .related-video
+youtube.com##.watch-sidebar-body > #watch-related > .related-list-item
+! Removes recommended channels on home page, susbcriptions page and feed
+youtube.com##.home .branded-page-v2-secondary-col
+youtube.com##.feed .branded-page-v2-secondary-col
+youtube.com##.guide-builder-v2 .branded-page-v2-secondary-col
+youtube.com##.branded-page-v2-col-container > .branded-page-v2-col-container-inner > .branded-page-v2-secondary-col:last-child > .branded-page-box:first-child:last-child
+! Removes recommended and featured videos in the endscreen
+||ytimg.com/yts/swfbin/player-*/endscreen.swf$object-subrequest,domain=youtube.com
+youtube.com##.html5-endscreen-content
+youtube.com##.html5-endscreen
+! Removes related/featured/popular channels on channel pages
+youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip
+youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip + .branded-page-related-channels-list
+youtube.com##.branded-page-v2-col-container > .branded-page-v2-col-container-inner > .branded-page-v2-secondary-col:last-child > .branded-page-related-channels:first-child + .branded-page-box:last-child
+! "Subscribe to see more videos from this channel" on home page after watching some video of a channel
+youtube.com###channel-subscription-promo-in-feed
+||googleadservices.com^
+
+||ads.facebook.com^
+
+||dkhp.hufi.edu.vn/Content/images/banner-phongdaotao.jpg$image
+!sinhvien.hufi.edu.vn##.col-sm-3
+sinhvien.hufi.edu.vn##.logo
+||sinhvien.hufi.edu.vn/GetImage.aspx$image
+||sinhvien.hufi.edu.vn^$image,1p
+sinhvien.hufi.edu.vn##.fa-fw.fa-3x.fa-pulse.fa-spinner.fa
+@@||sinhvien.hufi.edu.vn/WebCommon/GetCaptcha$image,domain=sinhvien.hufi.edu.vn
+dkhp.hufi.edu.vn##.col-md-5
+sinhvien.hufi.edu.vn##[src^="data:image/png;base64,"]
+sinhvien.hufi.edu.vn##[src="/Content/AConfig/images/sv_logo_dashboard.png"]
+
+! 15 thg 7, 2024 https://fixnhanh.com
+fixnhanh.com###footer > .custom-popup-form
+
