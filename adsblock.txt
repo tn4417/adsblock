@@ -3,3 +3,5 @@
 ||i2.vlstorage.com^
 @@||play.stream4.me/embed/$subdocument
 
+honghot.vn###okpDeviceAffiliateDesktopEmuPopup
+honghot.vn##html, body:style(overflow: auto !important; position: static !important; height: auto !important;)
